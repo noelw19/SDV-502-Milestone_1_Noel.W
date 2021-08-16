@@ -1,0 +1,12 @@
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/bin/Debug/net5.0/StateCinema.deps.json
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/bin/Debug/net5.0/StateCinema.dll
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/bin/Debug/net5.0/ref/StateCinema.dll
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/bin/Debug/net5.0/StateCinema.pdb
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.csproj.AssemblyReference.cache
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.GeneratedMSBuildEditorConfig.editorconfig
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.AssemblyInfoInputs.cache
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.AssemblyInfo.cs
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.csproj.CoreCompileInputs.cache
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.dll
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/ref/StateCinema.dll
+/home/png_boi95/NMIT2021_sem2/SDV-502-Milestone_1_Noel.W/StateCinemaTesting/StateCinema/obj/Debug/net5.0/StateCinema.pdb
